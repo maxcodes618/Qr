@@ -1,0 +1,26 @@
+.div1{
+    background-color:hsl(0, 0%, 100%);
+    width: 300px;
+    border-radius: 10px;
+    margin-left: 500px;
+}
+body{
+    font-size: 15px;
+    background-color:hsl(212, 45%, 89%);
+}
+.div1 img{
+    width: 250px;
+    border-radius: 10px;
+    margin-left: 20px;
+    margin-top: 20px;
+}
+.p1{
+    text-align: center;
+    font-family: 'Courier New', Courier, monospace;
+    font-weight: 700;
+}
+.p2{
+    color: hsl(220, 15%, 55%);
+    font-weight: 400;
+    text-align: center;
+}
