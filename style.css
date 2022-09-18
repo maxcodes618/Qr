@@ -7,7 +7,7 @@
 body{
     background-color:hsl(212, 45%, 89%);
     font-family: "Outfit-Black";
-    min-height: 100vh;
+    min-height: 50vh;
     font-size: 15px;
     background-color: hsl(212, 45%, 89%);
     display: flex;
