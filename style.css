@@ -5,9 +5,15 @@
     margin-left: 500px;
 }
 body{
-    font-size: 15px;
     background-color:hsl(212, 45%, 89%);
-    font-family: "Outfit-Black"
+    font-family: "Outfit-Black";
+    min-height: 100vh;
+    font-size: 15px;
+    background-color: hsl(212, 45%, 89%);
+    display: flex;
+    flex-direction: column;
+    align-items: center;
+    justify-content: center;
 }
 .div1 img{
     width: 250px;
